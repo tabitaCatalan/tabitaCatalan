@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Tabita 
 
-![][badge-linkedin] 
+[![][badge-linkedin]][linkedin-url]
+
 
 ## ℹ️ Info
 - 🎓 I’m currently working on my MSc Mathematical Engineering thesis 
@@ -11,7 +12,9 @@
 ## 💻 Languages  
 ![][badge-julia]
 
-[badge-linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/tabita-catal%C3%A1n-mu%C3%B1oz-7476a1b4/
+[linkedin-url]: https://www.linkedin.com/in/tabita-catal%C3%A1n-mu%C3%B1oz-7476a1b4/
+
+[badge-linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=linkedin
 [badge-julia]: https://img.shields.io/static/v1?label=&message=Julia&color=9558B2&style=flat-square&logo=julia&link=https://julialang.org/
 
 
