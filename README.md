@@ -1,21 +1,26 @@
 # Hi there 👋 I'm Tabita 
 
-[![][badge-linkedin]][linkedin-url]
+[![][badge-linkedin]][url-linkedin]
 
 
 ## ℹ️ Info
-- 🎓 I’m currently working on my MSc Mathematical Engineering thesis 
-- 🌱 I’m currently learning software developement, deep learning, stochastic calculus and academic writing. I'm also refreshing my knowledge of partial differential equations. 
+- 🎓 I’m currently working on my MSc Mathematical Engineering thesis.
+- <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="drawing" width="18"/> I'm part of the organizing team of [TensorFlow User Group Santiago](https://www.meetup.com/TensorFlow-Santiago/), the first official community in Chile [recognized by Google](https://www.tensorflow.org/community/groups?authuser=1). Check out [our GitHub repo](https://github.com/danpereda/TFUG_Santiago).
+- 🌱 I’m currently learning statistics and machine learning and academic writing.
+- 👀 I'm interested in MLOps and want to learn more about it.
 - 👯 I’m looking to collaborate on a proyect using [The Julia Programming Language](https://julialang.org/). 
 - 🏋 I'm working toward my goal of doing the 'O' trek in to Torres del Paine.
 
-## 💻 Languages  
-![][badge-julia]
+## 💻 Languages and Tools
+[![][badge-julia]][url-julia] [![][badge-python]][url-python]
 
-[linkedin-url]: https://www.linkedin.com/in/tabita-catal%C3%A1n-mu%C3%B1oz-7476a1b4/
+[url-linkedin]: https://www.linkedin.com/in/tabita-catal%C3%A1n-mu%C3%B1oz-7476a1b4/
+[url-julia]: https://julialang.org/
+[url-python]: https://www.python.org/
 
-[badge-linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=linkedin
-[badge-julia]: https://img.shields.io/static/v1?label=&message=Julia&color=9558B2&style=flat-square&logo=julia&link=https://julialang.org/
+[badge-linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=for-the-badge&logo=linkedin
+[badge-julia]: https://img.shields.io/static/v1?label=&message=Julia&color=9558B2&style=for-the-badge&logo=julia&logoColor=white
+[badge-python]: https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=white
 
 
 <!--
