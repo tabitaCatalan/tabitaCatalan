@@ -14,6 +14,12 @@
 ## 💻 Languages and Tools
 [![][badge-julia]][url-julia] [![][badge-python]][url-python]
 
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 [url-linkedin]: https://www.linkedin.com/in/tabita-catal%C3%A1n-mu%C3%B1oz-7476a1b4/
 [url-julia]: https://julialang.org/
 [url-python]: https://www.python.org/
