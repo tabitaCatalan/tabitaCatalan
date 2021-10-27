@@ -17,6 +17,11 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#9](https://github.com/tabitaCatalan/lagrangian-time/issues/9) in [tabitaCatalan/lagrangian-time](https://github.com/tabitaCatalan/lagrangian-time)
+2. ❗️ Opened issue [#9](https://github.com/tabitaCatalan/lagrangian-time/issues/9) in [tabitaCatalan/lagrangian-time](https://github.com/tabitaCatalan/lagrangian-time)
+3. ❗️ Opened issue [#2](https://github.com/tabitaCatalan/CovidMTK/issues/2) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
+4. ❗️ Closed issue [#6](https://github.com/tabitaCatalan/lagrangian-time/issues/6) in [tabitaCatalan/lagrangian-time](https://github.com/tabitaCatalan/lagrangian-time)
+5. 🗣 Commented on [#6](https://github.com/tabitaCatalan/lagrangian-time/issues/6) in [tabitaCatalan/lagrangian-time](https://github.com/tabitaCatalan/lagrangian-time)
 <!--END_SECTION:activity-->
 
 
