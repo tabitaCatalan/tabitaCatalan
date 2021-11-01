@@ -17,11 +17,11 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/tabitaCatalan/CovidMTK/issues/1) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
-2. 🗣 Commented on [#1](https://github.com/tabitaCatalan/CovidMTK/issues/1) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
-3. 🗣 Commented on [#1](https://github.com/tabitaCatalan/CovidMTK/issues/1) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
+1. 🗣 Commented on [#3](https://github.com/tabitaCatalan/CovidMTK/issues/3) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
+2. ❗️ Opened issue [#3](https://github.com/tabitaCatalan/CovidMTK/issues/3) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
+3. ❗️ Closed issue [#1](https://github.com/tabitaCatalan/CovidMTK/issues/1) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
 4. 🗣 Commented on [#1](https://github.com/tabitaCatalan/CovidMTK/issues/1) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
-5. ❗️ Closed issue [#9](https://github.com/tabitaCatalan/lagrangian-time/issues/9) in [tabitaCatalan/lagrangian-time](https://github.com/tabitaCatalan/lagrangian-time)
+5. 🗣 Commented on [#1](https://github.com/tabitaCatalan/CovidMTK/issues/1) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
 <!--END_SECTION:activity-->
 
 
