@@ -17,7 +17,7 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
+1. 💪 Opened PR [#11](https://github.com/tabitaCatalan/kalman/pull/11) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
 2. 🗣 Commented on [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
 3. 🗣 Commented on [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
 4. 🗣 Commented on [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
