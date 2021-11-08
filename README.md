@@ -20,8 +20,8 @@
 1. 🗣 Commented on [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
 2. 🗣 Commented on [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
 3. 🗣 Commented on [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
-4. ❗️ Opened issue [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
-5. ❗️ Opened issue [#9](https://github.com/tabitaCatalan/kalman/issues/9) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
+4. 🗣 Commented on [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
+5. 🗣 Commented on [#10](https://github.com/tabitaCatalan/kalman/issues/10) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
 <!--END_SECTION:activity-->
 
 
