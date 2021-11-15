@@ -17,10 +17,10 @@
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/tabitaCatalan/kalman/pull/12) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
-2. ❗️ Closed issue [#9](https://github.com/tabitaCatalan/kalman/issues/9) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
-3. 🗣 Commented on [#9](https://github.com/tabitaCatalan/kalman/issues/9) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
-4. 💪 Opened PR [#12](https://github.com/tabitaCatalan/kalman/pull/12) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
+1. 🗣 Commented on [#3](https://github.com/tabitaCatalan/CovidMTK/issues/3) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
+2. 🗣 Commented on [#3](https://github.com/tabitaCatalan/CovidMTK/issues/3) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
+3. 🎉 Merged PR [#12](https://github.com/tabitaCatalan/kalman/pull/12) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
+4. ❗️ Closed issue [#9](https://github.com/tabitaCatalan/kalman/issues/9) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
 5. 🗣 Commented on [#9](https://github.com/tabitaCatalan/kalman/issues/9) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
 <!--END_SECTION:activity-->
 
