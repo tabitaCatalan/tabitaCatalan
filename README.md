@@ -21,7 +21,7 @@
 2. 🗣 Commented on [#3](https://github.com/tabitaCatalan/CovidMTK/issues/3) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
 3. 🗣 Commented on [#3](https://github.com/tabitaCatalan/CovidMTK/issues/3) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
 4. 🗣 Commented on [#3](https://github.com/tabitaCatalan/CovidMTK/issues/3) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
-5. 🎉 Merged PR [#12](https://github.com/tabitaCatalan/kalman/pull/12) in [tabitaCatalan/kalman](https://github.com/tabitaCatalan/kalman)
+5. 🗣 Commented on [#3](https://github.com/tabitaCatalan/CovidMTK/issues/3) in [tabitaCatalan/CovidMTK](https://github.com/tabitaCatalan/CovidMTK)
 <!--END_SECTION:activity-->
 
 
